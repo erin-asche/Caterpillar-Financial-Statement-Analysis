@@ -10,7 +10,7 @@ This project analyzes Caterpillar Inc.'s financial performance using publicly av
 - Assess profitability, liquidity, leverage, and asset utilization.
 - Estimate cost of equity using CAPM.
 - Apply capital budgeting techniques to evaluate investment opportunities.
-- Present financial findings through a structured Excel analysis workbook. 【1-d0c085】
+- Present financial findings through a structured Excel analysis workbook.
 
 ## Skills Demonstrated
 
@@ -22,7 +22,7 @@ This project analyzes Caterpillar Inc.'s financial performance using publicly av
 - Internal Rate of Return (IRR)
 - Capital Budgeting
 - Business and Financial Reporting
-- SEC 10-K Analysis 【1-d0c085】
+- SEC 10-K Analysis 
 
 ## Key Findings
 
@@ -51,7 +51,7 @@ This project analyzes Caterpillar Inc.'s financial performance using publicly av
 
 - Both investment alternatives generated positive NPVs.
 - Investment B was selected as the preferred alternative due to its higher NPV and IRR.
-- NPV and IRR were used to evaluate expected returns against the required rate of return. 【1-d0c085】
+- NPV and IRR were used to evaluate expected returns against the required rate of return.
 
 ## Financial Analysis Summary
 
