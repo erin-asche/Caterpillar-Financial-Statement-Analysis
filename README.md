@@ -55,7 +55,7 @@ This project analyzes Caterpillar Inc.'s financial performance using publicly av
 
 ## Financial Analysis Summary
 
-screenshots/financial-analysis-summary.png.png
+![Financial Analysis Summary](screenshots/financial-analysis-summary.png.png)
 
 ## Workbook Structure
 
